@@ -1,0 +1,12 @@
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Plugins.dll
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Plugins.pdb
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\Plugins\obj\Debug\Plugins.dll
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\Plugins\obj\Debug\Plugins.pdb
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Plugins.dll
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Plugins.pdb
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\Plugins\obj\Debug\Plugins.csprojAssemblyReference.cache
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\Plugins\obj\Debug\Plugins.csproj.CoreCompileInputs.cache
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\Plugins\obj\Debug\Plugins.csproj.CopyComplete
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\Plugins\obj\Debug\Plugins.dll
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\Plugins\obj\Debug\Plugins.pdb

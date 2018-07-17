@@ -1,0 +1,71 @@
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.exe.config
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.BookingForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ExportDataForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportDataForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportResultsPopup.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.MainForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.Properties.Resources.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.GenerateResource.Cache
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csprojResolveAssemblyReference.cache
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.BookingForm.resources
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ExportDataForm.resources
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportDataForm.resources
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportResultsPopup.resources
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.MainForm.resources
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.Properties.Resources.resources
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.GenerateResource.Cache
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csprojFakesResolveAssemblyReference.cache
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.accdb
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.exe.config
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.exe
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.pdb
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Common.exe
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Common.pdb
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Common.exe.config
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\b\Common.exe
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\b\Common.exe.config
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\b\Common.Fakes.dll
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\b\Common.Fakes.fakesconfig
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\b\Common.Fakes.pdb
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\b\Common.Fakes.xml
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\b\Common.pdb
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\f.ah
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\f.ch
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\f.cs
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\f.csproj
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\f.fakes
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\f.fakesconfig
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\o\Common.Fakes.dll
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\o\Common.Fakes.pdb
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\o\CoreCompileInputs.cache
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\o\f.csproj.FileListAbsolute.txt
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\c\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\Fakes\fakes.args
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.exe
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.pdb
+C:\Users\Isadora\Documents\Visual Studio 2017\Projects\Activities\vp1_work\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Common.Fakes.fakesconfig
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.accdb
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.exe.config
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.exe
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.pdb
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Common.exe
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\EntityFramework.dll
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Common.pdb
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Common.exe.config
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\EntityFramework.xml
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csprojAssemblyReference.cache
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.BookingForm.resources
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ExportDataForm.resources
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportDataForm.resources
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportResultsPopup.resources
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.MainForm.resources
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.Properties.Resources.resources
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.GenerateResource.cache
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.CoreCompileInputs.cache
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.CopyComplete
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.exe
+C:\Users\isaav\OneDrive\Documentos\VP1\Project - Copy (2)\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.pdb

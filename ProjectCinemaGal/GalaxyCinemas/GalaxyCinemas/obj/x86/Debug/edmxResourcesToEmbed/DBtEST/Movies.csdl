@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GalaxyCinemaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Booking">
+    <Key>
+      <PropertyRef Name="BookingNumber" />
+    </Key>
+    <Property Name="BookingNumber" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SessionID" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Byte" Nullable="false" />
+    <Property Name="Special" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Discount" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="FinalPrice" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="OriginalPrice" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Movie">
+    <Key>
+      <PropertyRef Name="MovieID" />
+    </Key>
+    <Property Name="MovieID" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Session">
+    <Key>
+      <PropertyRef Name="SessionID" />
+    </Key>
+    <Property Name="SessionID" Type="Int32" Nullable="false" />
+    <Property Name="MovieID" Type="Int32" Nullable="false" />
+    <Property Name="SessionDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CinemaNumber" Type="Byte" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="GalaxyCinemaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Bookings" EntityType="Self.Booking" />
+    <EntitySet Name="Movies" EntityType="Self.Movie" />
+    <EntitySet Name="Sessions" EntityType="Self.Session" />
+  </EntityContainer>
+</Schema>
