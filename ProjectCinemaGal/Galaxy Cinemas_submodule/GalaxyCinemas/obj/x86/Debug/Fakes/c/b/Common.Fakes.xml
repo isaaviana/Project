@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Common.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Common.Fakes.ShimBooking">
+            <summary>Shim type of Common.Booking</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimBooking.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimBooking.#ctor(Common.Booking)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Common.Fakes.ShimBooking.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.BookingNumberGet">
+            <summary>Sets the shim of Booking.get_BookingNumber()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.BookingNumberSetInt32">
+            <summary>Sets the shim of Booking.set_BookingNumber(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.DiscountGet">
+            <summary>Sets the shim of Booking.get_Discount()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.DiscountSetDecimal">
+            <summary>Sets the shim of Booking.set_Discount(Decimal value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.FinalPriceGet">
+            <summary>Sets the shim of Booking.get_FinalPrice()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.FinalPriceSetDecimal">
+            <summary>Sets the shim of Booking.set_FinalPrice(Decimal value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.OriginalPriceGet">
+            <summary>Sets the shim of Booking.get_OriginalPrice()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.OriginalPriceSetDecimal">
+            <summary>Sets the shim of Booking.set_OriginalPrice(Decimal value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.QuantityGet">
+            <summary>Sets the shim of Booking.get_Quantity()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.QuantitySetInt32">
+            <summary>Sets the shim of Booking.set_Quantity(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.SessionDateGet">
+            <summary>Sets the shim of Booking.get_SessionDate()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.SessionDateSetDateTime">
+            <summary>Sets the shim of Booking.set_SessionDate(DateTime value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.SessionIDGet">
+            <summary>Sets the shim of Booking.get_SessionID()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.SessionIDSetInt32">
+            <summary>Sets the shim of Booking.set_SessionID(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.SpecialGet">
+            <summary>Sets the shim of Booking.get_Special()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.AllInstances.SpecialSetString">
+            <summary>Sets the shim of Booking.set_Special(String value)</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimBooking.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimBooking.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.BookingNumberGet">
+            <summary>Sets the shim of Booking.get_BookingNumber()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.BookingNumberSetInt32">
+            <summary>Sets the shim of Booking.set_BookingNumber(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.Constructor">
+            <summary>Sets the shim of Booking.Booking()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.DiscountGet">
+            <summary>Sets the shim of Booking.get_Discount()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.DiscountSetDecimal">
+            <summary>Sets the shim of Booking.set_Discount(Decimal value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.FinalPriceGet">
+            <summary>Sets the shim of Booking.get_FinalPrice()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.FinalPriceSetDecimal">
+            <summary>Sets the shim of Booking.set_FinalPrice(Decimal value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.OriginalPriceGet">
+            <summary>Sets the shim of Booking.get_OriginalPrice()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.OriginalPriceSetDecimal">
+            <summary>Sets the shim of Booking.set_OriginalPrice(Decimal value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.QuantityGet">
+            <summary>Sets the shim of Booking.get_Quantity()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.QuantitySetInt32">
+            <summary>Sets the shim of Booking.set_Quantity(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.SessionDateGet">
+            <summary>Sets the shim of Booking.get_SessionDate()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.SessionDateSetDateTime">
+            <summary>Sets the shim of Booking.set_SessionDate(DateTime value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.SessionIDGet">
+            <summary>Sets the shim of Booking.get_SessionID()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.SessionIDSetInt32">
+            <summary>Sets the shim of Booking.set_SessionID(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.SpecialGet">
+            <summary>Sets the shim of Booking.get_Special()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimBooking.SpecialSetString">
+            <summary>Sets the shim of Booking.set_Special(String value)</summary>
+        </member>
+        <member name="T:Common.Fakes.ShimMovie">
+            <summary>Shim type of Common.Movie</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimMovie.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimMovie.#ctor(Common.Movie)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Common.Fakes.ShimMovie.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.AllInstances.MovieIDGet">
+            <summary>Sets the shim of Movie.get_MovieID()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.AllInstances.MovieIDSetInt32">
+            <summary>Sets the shim of Movie.set_MovieID(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.AllInstances.TitleGet">
+            <summary>Sets the shim of Movie.get_Title()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.AllInstances.TitleSetString">
+            <summary>Sets the shim of Movie.set_Title(String value)</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimMovie.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimMovie.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.Constructor">
+            <summary>Sets the shim of Movie.Movie()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.MovieIDGet">
+            <summary>Sets the shim of Movie.get_MovieID()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.MovieIDSetInt32">
+            <summary>Sets the shim of Movie.set_MovieID(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.TitleGet">
+            <summary>Sets the shim of Movie.get_Title()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimMovie.TitleSetString">
+            <summary>Sets the shim of Movie.set_Title(String value)</summary>
+        </member>
+        <member name="T:Common.Fakes.ShimSession">
+            <summary>Shim type of Common.Session</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimSession.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimSession.#ctor(Common.Session)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Common.Fakes.ShimSession.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.CinemaNumberGet">
+            <summary>Sets the shim of Session.get_CinemaNumber()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.CinemaNumberSetByte">
+            <summary>Sets the shim of Session.set_CinemaNumber(Byte value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.MovieIDGet">
+            <summary>Sets the shim of Session.get_MovieID()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.MovieIDSetInt32">
+            <summary>Sets the shim of Session.set_MovieID(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.SessionDateGet">
+            <summary>Sets the shim of Session.get_SessionDate()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.SessionDateSetDateTime">
+            <summary>Sets the shim of Session.set_SessionDate(DateTime value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.SessionIDGet">
+            <summary>Sets the shim of Session.get_SessionID()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.SessionIDSetInt32">
+            <summary>Sets the shim of Session.set_SessionID(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.AllInstances.ShortFormatGet">
+            <summary>Sets the shim of Session.get_ShortFormat()</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimSession.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Common.Fakes.ShimSession.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.CinemaNumberGet">
+            <summary>Sets the shim of Session.get_CinemaNumber()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.CinemaNumberSetByte">
+            <summary>Sets the shim of Session.set_CinemaNumber(Byte value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.Constructor">
+            <summary>Sets the shim of Session.Session()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.MovieIDGet">
+            <summary>Sets the shim of Session.get_MovieID()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.MovieIDSetInt32">
+            <summary>Sets the shim of Session.set_MovieID(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.SessionDateGet">
+            <summary>Sets the shim of Session.get_SessionDate()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.SessionDateSetDateTime">
+            <summary>Sets the shim of Session.set_SessionDate(DateTime value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.SessionIDGet">
+            <summary>Sets the shim of Session.get_SessionID()</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.SessionIDSetInt32">
+            <summary>Sets the shim of Session.set_SessionID(Int32 value)</summary>
+        </member>
+        <member name="P:Common.Fakes.ShimSession.ShortFormatGet">
+            <summary>Sets the shim of Session.get_ShortFormat()</summary>
+        </member>
+        <member name="T:Common.Fakes.StubBooking">
+            <summary>Stub type of Common.Booking</summary>
+        </member>
+        <member name="M:Common.Fakes.StubBooking.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Common.Fakes.StubBooking.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Common.Fakes.StubBooking.InitializeStub">
+            <summary>Initializes a new instance of type StubBooking</summary>
+        </member>
+        <member name="P:Common.Fakes.StubBooking.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Common.Fakes.StubBooking.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Common.Fakes.StubISpecialPlugin">
+            <summary>Stub type of Common.ISpecialPlugin</summary>
+        </member>
+        <member name="M:Common.Fakes.StubISpecialPlugin.#ctor">
+            <summary>Initializes a new instance of type StubISpecialPlugin</summary>
+        </member>
+        <member name="F:Common.Fakes.StubISpecialPlugin.CalculateSpecialBookingStringRefDecimalRef">
+            <summary>Sets the stub of ISpecialPlugin.CalculateSpecial(Booking booking, String&amp; specialName, Decimal&amp; specialPrice)</summary>
+        </member>
+        <member name="M:Common.Fakes.StubISpecialPlugin.Common#ISpecialPlugin#CalculateSpecial(Common.Booking,System.String@,System.Decimal@)">
+            <summary>Sets the stub of ISpecialPlugin.CalculateSpecial(Booking booking, String&amp; specialName, Decimal&amp; specialPrice)</summary>
+        </member>
+        <member name="T:Common.Fakes.StubMovie">
+            <summary>Stub type of Common.Movie</summary>
+        </member>
+        <member name="M:Common.Fakes.StubMovie.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Common.Fakes.StubMovie.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Common.Fakes.StubMovie.InitializeStub">
+            <summary>Initializes a new instance of type StubMovie</summary>
+        </member>
+        <member name="P:Common.Fakes.StubMovie.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Common.Fakes.StubMovie.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Common.Fakes.StubSession">
+            <summary>Stub type of Common.Session</summary>
+        </member>
+        <member name="M:Common.Fakes.StubSession.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Common.Fakes.StubSession.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Common.Fakes.StubSession.InitializeStub">
+            <summary>Initializes a new instance of type StubSession</summary>
+        </member>
+        <member name="P:Common.Fakes.StubSession.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Common.Fakes.StubSession.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
